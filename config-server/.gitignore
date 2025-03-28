@@ -1,9 +1,10 @@
 .idea/
 *.iml
 
-**/.gradle/
-**/build/
-**/target/
+
+.gradle/
+build/
+target/
 
 mysql-data/
 
